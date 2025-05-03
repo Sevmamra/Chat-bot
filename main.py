@@ -1,5 +1,3 @@
-!pip install python-telegram-bot==20.3 openai python-dotenv
-
 import os
 import openai
 import logging
